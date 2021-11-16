@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "53eee4cf-9fee-5545-fc99-dc1071d83dd7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Dynamic Leadership: Using Improvisation in Business",
+  "course_description": "The first two weeks of this course are an overview of performing improvisation with introductory and advanced exercises in the techniques of improvisation.\u00a0The final four weeks focus on applying these concepts in business situations to practice and mastering these improvisation tools in leadership learning.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.969",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
